@@ -12,6 +12,11 @@ font-size: 20px;
 background-color: rgb(46, 117, 117);
 color: rgb(49, 51, 50);
 }
+/*cuarto comit*/
+.precio {
+  color: rgb(112, 10, 10);
+  font-size: 25px;
+}
 /* Hero Section */
 
 #Hero-Section {
