@@ -6,6 +6,12 @@ body {
   color: antiquewhite;
   font-size: 35px;
 }
+/*segundo comit*/
+.tipoletra {
+font-size: 20px;
+background-color: rgb(46, 117, 117);
+color: rgb(49, 51, 50);
+}
 /* Hero Section */
 
 #Hero-Section {
